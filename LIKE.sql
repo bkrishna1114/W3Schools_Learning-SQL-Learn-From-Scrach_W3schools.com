@@ -1,6 +1,4 @@
 set SQL_SAFE_UPDATES = 0;
-
-
 show databases;
 use sakila;
 show tables;
