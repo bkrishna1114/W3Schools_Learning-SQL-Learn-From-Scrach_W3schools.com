@@ -1,13 +1,9 @@
-# W3Schools_Learning-SQL-Learn-From-Scrach_W3schools.com
-
-### This is not commited and this file is just purpose of learning....
+### W3Schools_Learning-SQL-Learn-From-Scrach_W3schools.com
 
 
-python is a very wonderful language i really loved it....
+THis Programms or sql queries is the part of practice in w3schools.com learning process..
+
+all of the programs implemented by my own practice and the interest...
 
 
-Hey this is last change we can proceed to further steps for dellivery.
-
-
-
-$$$$$THis will be deleted from Here,,,,
+###########################The END #########################################
